@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **shop_app**
 
-- 🌱 I’m currently learning **AWS,React,Python**
+- 🌱 I’m currently learning **AWS,React,Javascript**
 
 - 👯 I’m looking to collaborate on **Freelancing**
 
