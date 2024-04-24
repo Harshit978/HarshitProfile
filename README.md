@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS,React,Javascript**
 
-- 👯 I’m looking to collaborate on **Freelancing**
+- 👯 I’m looking to collaborate on **Freelancing** or **Job**
 
 - 🤝 I’m looking for help with **Getting recruited**
 
